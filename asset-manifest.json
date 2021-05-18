@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://sanjeevsah30.github.io/csb-sokjf/static/css/main.84ff1997.chunk.css",
-    "main.js": "https://sanjeevsah30.github.io/csb-sokjf/static/js/main.2fcbfb5d.chunk.js",
-    "main.js.map": "https://sanjeevsah30.github.io/csb-sokjf/static/js/main.2fcbfb5d.chunk.js.map",
+    "main.js": "https://sanjeevsah30.github.io/csb-sokjf/static/js/main.eca6ddee.chunk.js",
+    "main.js.map": "https://sanjeevsah30.github.io/csb-sokjf/static/js/main.eca6ddee.chunk.js.map",
     "runtime-main.js": "https://sanjeevsah30.github.io/csb-sokjf/static/js/runtime-main.cd7d7eeb.js",
     "runtime-main.js.map": "https://sanjeevsah30.github.io/csb-sokjf/static/js/runtime-main.cd7d7eeb.js.map",
     "static/js/2.1ba9f531.chunk.js": "https://sanjeevsah30.github.io/csb-sokjf/static/js/2.1ba9f531.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cd7d7eeb.js",
     "static/js/2.1ba9f531.chunk.js",
     "static/css/main.84ff1997.chunk.css",
-    "static/js/main.2fcbfb5d.chunk.js"
+    "static/js/main.eca6ddee.chunk.js"
   ]
 }
